@@ -26,7 +26,7 @@ In this tutorial, we set up a virtual private network in a different countries s
 <h2>Actions and Observations</h2>
 
 <p>
-<img src="https://i.imgur.com/H7J1X1W.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/fc1algy.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 The first thing you want to do is create your VM. Make sure when creating your Vm you choose a region that you are not from. As seen in my other labs, I usually choose U.S. East becuase I am from the east coast but in this lab I chose West Europe.
@@ -34,7 +34,7 @@ The first thing you want to do is create your VM. Make sure when creating your V
 <br />
 
 <p>
-<img src="https://i.imgur.com/nGUltP0.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/qDyDHwg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Now inside of the VM, my Location says that I am in the netherlands which is in west europe. Basically, your VM is like another VPN. (www.whatismyipaddress.com)
@@ -42,7 +42,7 @@ Now inside of the VM, my Location says that I am in the netherlands which is in 
 <br />
 
 <p>
-<img src="https://i.imgur.com/gYDTJh5.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/BCd2NdC.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 When I go to www.google.com in my VM, it translates everything to the Language people speak in the netherlands. I thought this was fairly interesting.
@@ -50,7 +50,7 @@ When I go to www.google.com in my VM, it translates everything to the Language p
 <br />
 
 <p>
-<img src="https://i.imgur.com/lLsOdrK.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/2QHztW2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Search "Proton VPN" on google. When you get to the main page you may have to make an account if you do not have one already ( it may be easier to minimize your VM and make an account in your actual browser). Make sure to get the free version. After your account is made, on the left hand side it will show your dashboard, go down to downloads and when you have the downloads tab open, since we are using the windows operating system, select the windows download version.
@@ -66,7 +66,7 @@ After downloading proton VPN, make sure to finish installing it via the files fo
 <br />
 
 <p>
-<img src="https://i.imgur.com/57kk0hk.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/a595vBC.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Now when you choose a server on the Proton VPN app, observe everything that is going on, for example, the traffic, the upload and download speeds, etc. After you are finished, go back to your browser and refresh your "whatismyipaddress.com" page or you can open that page if you dont have it opened already and it should show you a new IP address along with a new location!
