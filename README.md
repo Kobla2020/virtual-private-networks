@@ -25,8 +25,7 @@ In this tutorial, we set up a virtual private network in a different countries s
 
 <h2>Actions and Observations</h2>
 
-<p>
-<img src="https://i.imgur.com/fc1algy.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+![Screenshot 2023-08-12 202408](https://github.com/Kobla2020/virtual-private-networks/assets/127445078/1ad6bf53-1733-4e3b-a289-5199cde20675)
 </p>
 <p>
 The first thing you want to do is create your VM. Make sure when creating your Vm you choose a region that you are not from. As seen in my other labs, I usually choose U.S. East becuase I am from the east coast but in this lab I chose West Europe.
