@@ -32,8 +32,8 @@ The first thing you want to do is create your VM. Make sure when creating your V
 </p>
 <br />
 
-<p>
-<img src="https://i.imgur.com/qDyDHwg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+![Annotation 2023-03-20 221039](https://github.com/Kobla2020/virtual-private-networks/assets/127445078/94173b84-0b8a-40b9-bde2-901ffc8507d5)
+
 </p>
 <p>
 Now inside of the VM, my Location says that I am in the netherlands which is in west europe. Basically, your VM is like another VPN. (www.whatismyipaddress.com)
