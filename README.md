@@ -28,7 +28,7 @@ In this tutorial, we set up a virtual private network in a different countries s
 ![Screenshot 2023-08-12 202408](https://github.com/Kobla2020/virtual-private-networks/assets/127445078/1ad6bf53-1733-4e3b-a289-5199cde20675)
 </p>
 <p>
-The first thing you want to do is create your VM. Make sure when creating your Vm you choose a region that you are not from. As seen in my other labs, I usually choose U.S. East becuase I am from the east coast but in this lab I chose West Europe.
+The first thing you want to do is create your VM. Make sure when creating your Vm you choose a region that you are not from. As seen in my other labs, I usually choose U.S. East because I am from the east coast but in this lab I chose West Europe.
 </p>
 <br />
 
@@ -40,8 +40,7 @@ Now inside of the VM, my Location says that I am in the netherlands which is in 
 </p>
 <br />
 
-<p>
-<img src="https://i.imgur.com/BCd2NdC.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+![Annotation 2023-03-20 221456](https://github.com/Kobla2020/virtual-private-networks/assets/127445078/b6dcbdaf-af07-4819-a58b-4166c070ee64)
 </p>
 <p>
 When I go to www.google.com in my VM, it translates everything to the Language people speak in the netherlands. I thought this was fairly interesting.
