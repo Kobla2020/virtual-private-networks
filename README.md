@@ -47,8 +47,7 @@ When I go to www.google.com in my VM, it translates everything to the Language p
 </p>
 <br />
 
-<p>
-<img src="https://i.imgur.com/2QHztW2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+![Annotation 2023-03-20 222038](https://github.com/Kobla2020/virtual-private-networks/assets/127445078/16c31bd9-9869-4727-a37a-48a0011eb595)
 </p>
 <p>
 Search "Proton VPN" on google. When you get to the main page you may have to make an account if you do not have one already ( it may be easier to minimize your VM and make an account in your actual browser). Make sure to get the free version. After your account is made, on the left hand side it will show your dashboard, go down to downloads and when you have the downloads tab open, since we are using the windows operating system, select the windows download version.
