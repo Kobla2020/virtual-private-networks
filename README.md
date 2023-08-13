@@ -1,5 +1,5 @@
-<p align="center">
-<img src="https://i.imgur.com/2KzNN99.png" 
+![Screenshot 2023-03-20 174117](https://github.com/Kobla2020/virtual-private-networks/assets/127445078/3e017559-bb5a-459c-88c2-7a5ad9d1c362)
+
 </p>
 
 <h1>Virtual Private Networks (VPN) and how to connect to VPN servers in different countries</h1>
